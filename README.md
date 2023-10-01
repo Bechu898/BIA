@@ -1,4 +1,4 @@
 # BIA
-Hi, My anme is Bechulal
+Hi, My name is Bechulal
 <br>
 and this is my BIA lecture 
